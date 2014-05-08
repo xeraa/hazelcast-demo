@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/xeraa/hazelcast-demo.png?branch=master)](https://travis-ci.org/xeraa/hazelcast-demo)
 
-This is a simple test project I used to show some of [Hazelcast's[(http://www.hazelcast.org) features.
+This is a simple test project I used to show some of [Hazelcast's](http://www.hazelcast.org) features.
 
 
 ## Requirements
